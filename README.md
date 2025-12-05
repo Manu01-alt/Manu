@@ -3,8 +3,8 @@
 Sono un appassionato di videogiochi e voglio fare il game designer
 
 ## 🎮 Passioni
-- Giocare a videogiochi di vari generi, in particolare GDR e Action-Adventure.
-- Sperimentare con GameMaker Studio per creare i miei primi progetti di gioco.
+- Giocare a videogiochi di vari generi.
+- Sperimentare in generale nel mondo dell'informatica
 
 ## 🌱 Attualmente Sto Imparando ad usare
 - **GameMaker Studio**: Per imparare le basi dello sviluppo di giochi.
