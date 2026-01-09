@@ -1,7 +1,5 @@
 # Ciao, sono Manuel, ma puoi chiamarmi Manu 
 
-Sono un appassionato di videogiochi e voglio fare il game designer
-
 ## 🎮 Passioni
 - Giocare a videogiochi di vari generi.
 - Sperimentare in generale nel mondo dell'informatica
